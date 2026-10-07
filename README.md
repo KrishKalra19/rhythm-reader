@@ -2,7 +2,7 @@
 
 A music-theory rhythm practice tool. It's a single HTML file (plain HTML/CSS/JS, no build step).
 
-**Live:** _URL pending_
+**Live:** https://krishkalra19.github.io/rhythm-reader/
 
 ## Updating
 
